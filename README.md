@@ -7,8 +7,7 @@ O **Rocket Movies** é uma aplicação desenvolvida durante o curso Explorer da 
 - React  
 - JavaScript (ES6+)  
 - Styled Components  
-- Axios (para chamadas API RESTful)  
-- React Router (para navegação)  
+- Axios (para chamadas API RESTful)   
 
 ## 🎨 Funcionalidades
 
