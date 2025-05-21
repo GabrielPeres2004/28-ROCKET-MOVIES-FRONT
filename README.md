@@ -1,8 +1,25 @@
-# React + Vite
+# 🎥 Rocket Movies
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+O **Rocket Movies** é uma aplicação desenvolvida durante o curso Explorer da Rocketseat. O projeto é feito com **React**, utiliza **JavaScript**, **Styled Components** para estilização e consome uma **API RESTful** para gerenciar dados de filmes.
 
-Currently, two official plugins are available:
+## 🚀 Tecnologias
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- React  
+- JavaScript (ES6+)  
+- Styled Components  
+- Axios (para chamadas API RESTful)  
+- React Router (para navegação)  
+
+## 🎨 Funcionalidades
+
+- Adicionar filmes com título, nota e avaliação pessoal.  
+- Editar e excluir filmes cadastrados.  
+- Listar filmes com detalhes como título, descrição e nota.  
+- Buscar filmes pelo título.  
+- Uso de API RESTful para salvar e recuperar os dados.  
+- Interface responsiva e estilizada com Styled Components.  
+ 
+
+## 🔗 Acesse o projeto:
+
+[👉 Acessar Rocket Movies](https://rocket-movies-fullstack.netlify.app/)
