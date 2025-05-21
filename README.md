@@ -5,7 +5,7 @@ O **Rocket Movies** é uma aplicação desenvolvida durante o curso Explorer da 
 ## 🚀 Tecnologias
 
 - React  
-- JavaScript (ES6+)  
+- JavaScript   
 - Styled Components  
 - Axios (para chamadas API RESTful)   
 
